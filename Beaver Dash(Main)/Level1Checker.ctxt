@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Level1Checker
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=boolean\ isGameLost()
+comment3.params=
+comment3.target=void\ transitionToGameOver()
+numComments=4
